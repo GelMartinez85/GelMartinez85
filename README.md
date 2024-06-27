@@ -18,5 +18,5 @@ I am a Senior Engineer specializing in Vulnerability Management. I am passionate
 Feel free to fork this repository, make changes, and submit pull requests. I welcome contributions and suggestions from the community.
 
 ## Contact
-- GitHub: [Your GitHub Profile](https://github.com/GelMartinez85)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/am-n-85318000)
+- GitHub: (https://github.com/GelMartinez85)
+- LinkedIn:(https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/am-n-85318000)
